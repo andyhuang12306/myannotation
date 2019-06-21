@@ -1,0 +1,1 @@
+include ':java_app',':apt_annotation', ':apt_processor', ':apt_lib'
