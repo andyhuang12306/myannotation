@@ -18,4 +18,4 @@ annotation  processor  bindingTool app
 
 # final:
 
-apt is one of the Main Three AOP techs, the other two is aspectJ and Javaassit. they are help us to handle the logic in the whole projects crossing each and every business modules
+apt is one of the Main Three AOP techs, the other two is aspectJ and Javaassit. they help us to handle the logic in the whole projects crossing each and every business modules
