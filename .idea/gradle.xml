@@ -8,10 +8,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/apt_annotation" />
             <option value="$PROJECT_DIR$/apt_lib" />
             <option value="$PROJECT_DIR$/apt_processor" />
-            <option value="$PROJECT_DIR$/java_app" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
